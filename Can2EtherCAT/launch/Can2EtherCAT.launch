@@ -1,0 +1,7 @@
+<launch>
+
+
+	<node name="Anybus_test" pkg="Can2EtherCAT" type="Anybus_test" launch-prefix="ethercat_grant" output="screen" />
+
+
+</launch>
